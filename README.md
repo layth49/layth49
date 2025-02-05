@@ -4,7 +4,13 @@
 </p>
 <div size='20px'> Hi! My name is Layth. Thank You for taking the time to view my GitHub Profile
 </div>
+
 <br clear="both">
+
+* 🌍  I'm based in Palestine 
+* 🧠  I'm learning everything C#
+*  💪 I love the gym
+* 🏡 [My website](https://layth49.surge.sh)
 <br clear="both">
 
 
