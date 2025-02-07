@@ -1,7 +1,7 @@
 <h1 align="center">Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50px" height='50px'></h1>
 
 <p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=layth49&label=Profile%20views&color=0e75b6&style=flat" alt="layth49" />
+  <img src="https://komarev.com/ghpvc/?username=layth49&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="layth49" />
 </p>
 
 <div size='20px' align='center'> 
@@ -50,8 +50,8 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=layth49&show_icons=true&theme=radical" alt="Layth's GitHub stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layth49&layout=compact&theme=radical" alt="Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=layth49&show_icons=true&theme=dark" alt="Layth's GitHub stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layth49&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
 <br>
