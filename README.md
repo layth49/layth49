@@ -10,7 +10,7 @@
 
 <br>
 
-- 🌍  I'm based in Palestine 
+- 🌍  I'm based in the U.S.A. 
 - 🧠  I'm learning everything C#
 - 💪  I love the gym
 - 🏡  [My website](https://layth49.surge.sh)
