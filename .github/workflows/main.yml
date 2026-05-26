@@ -56,7 +56,7 @@ jobs:
           card: pin
           options: >-
             username=${{ github.repository_owner }}
-            repo=github-readme-stats
+            repo=Personal-Assistant
           path: profile/pin-stats-organization-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
