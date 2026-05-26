@@ -38,16 +38,13 @@
 <br>
 
 
-
-
-
 <h2 align="center">Stuff I worked on last week <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width="50px" height="50px"></h2>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/wakatime.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile/wakatime.svg">
-    <img alt="Wakatime" src="./profile/wakatime.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/wakatime.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/wakatime.svg?v=1">
+    <img alt="Wakatime" src="./profile/wakatime.svg?v=1">
   </picture>
 </p>
 
@@ -57,15 +54,15 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg">
-    <img alt="Stats" src="./profile/stats.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg?v=1">
+    <img alt="Stats" src="./profile/stats.svg?v=1">
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs.svg">
-    <img alt="Top Languages" src="./profile/top-langs.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs.svg?v=1">
+    <img alt="Top Languages" src="./profile/top-langs.svg?v=1">
   </picture>
 </p>
 
