@@ -44,9 +44,11 @@
 <h2 align="center">Stuff I worked on last week <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width="50px" height="50px"></h2>
 
 <p align="center">
-  
-  ![Wakatime](./profile/wakatime.svg)
-    
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/wakatime.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/wakatime.svg">
+    <img alt="Wakatime" src="./profile/wakatime.svg">
+  </picture>
 </p>
 
 <br>
@@ -54,10 +56,18 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-
-![Stats](./profile/stats.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg">
+    <img alt="Stats" src="./profile/stats.svg">
+  </picture>
   
-![Top Languages](./profile/top-langs.svg)</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs.svg">
+    <img alt="Top Languages" src="./profile/top-langs.svg">
+  </picture>
+</p>
 
 <br>
 
