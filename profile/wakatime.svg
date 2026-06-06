@@ -129,17 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="258.35400000000004"
-            height="8"
-            fill="#3572A5"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="258.35400000000004"
-            y="0"
-            width="149.73000000000002"
+            width="294.624"
             height="8"
             fill="#858585"
           />
@@ -147,35 +137,35 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="408.08400000000006"
+            x="294.624"
             y="0"
-            width="40.594500000000004"
+            width="90.4425"
             height="8"
-            fill="#178600"
+            fill="#3572A5"
           />
         
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="448.67850000000004"
+            x="385.0665"
             y="0"
-            width="15.437999999999999"
+            width="79.93350000000001"
             height="8"
-            fill="#348a34"
+            fill="#178600"
           />
         
       
     <g transform="translate(25, 25)">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 48 mins
+        Other - 28 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 28 mins
+        Python - 8 mins
       </text>
     </g>
   
@@ -183,13 +173,6 @@
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         C# - 7 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 50)">
-      <circle cx="5" cy="6" r="5" fill="#348a34" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        SRecode Template - 2 mins
       </text>
     </g>
   
