@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="294.624"
+            width="239.28900000000002"
             height="8"
             fill="#858585"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="294.624"
+            x="239.28900000000002"
             y="0"
-            width="90.4425"
+            width="88.7685"
             height="8"
             fill="#3572A5"
           />
@@ -147,9 +147,19 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="385.0665"
+            x="328.0575"
             y="0"
-            width="79.93350000000001"
+            width="72.075"
+            height="8"
+            fill="#348a34"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="400.1325"
+            y="0"
+            width="64.914"
             height="8"
             fill="#178600"
           />
@@ -165,11 +175,18 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python - 8 mins
+        Python - 10 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
+      <circle cx="5" cy="6" r="5" fill="#348a34" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        SRecode Template - 8 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         C# - 7 mins
