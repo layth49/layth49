@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="115"
-        viewBox="0 0 495 115"
+        height="140"
+        viewBox="0 0 495 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="316.572"
+            width="287.46299999999997"
             height="8"
             fill="#858585"
           />
@@ -137,11 +137,31 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="316.572"
+            x="287.46299999999997"
             y="0"
-            width="148.428"
+            width="134.757"
             height="8"
             fill="#178600"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="422.21999999999997"
+            y="0"
+            width="33.0615"
+            height="8"
+            fill="#f1e05a"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="455.2815"
+            y="0"
+            width="9.625499999999999"
+            height="8"
+            fill="#3572A5"
           />
         
       
@@ -156,6 +176,20 @@
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         C# - 14 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 50)">
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        JavaScript - 3 mins
+      </text>
+    </g>
+  
+    <g transform="translate(230, 50)">
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        Python - 1 min
       </text>
     </g>
   
