@@ -1,23 +1,20 @@
-<h1 align="center">Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50px" height='50px'></h1>
+<h1 align="center">layth49</h1>
 
-<p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=layth49&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="layth49" />
+<p align="center">
+  Software developer &amp; automation engineer. I build voice assistants, bots, and apps that automate the small stuff.
 </p>
 
-<div size='20px' align='center'> 
-  Hi! My name is Layth. Thank You for taking the time to view my GitHub Profile.
-</div>
+<br>
+
+- 🎙️&nbsp; Building [L.A.I.T.H.49](https://layth49.com/HTML/laith.html), a voice assistant that routes what I say to one of 38 tools
+- 📖&nbsp; Building [Burhan](https://layth49.com/HTML/burhan.html), a free app that answers questions about Islam with the Qur'an verse itself, no AI writing the answers
+- 🌍&nbsp; Based in the U.S.A.
+- 💪&nbsp; I love the gym
+- 🏡&nbsp; [layth49.com](https://layth49.com)
 
 <br>
 
-- 🌍  I'm based in the U.S.A. 
-- 🧠  I'm learning everything C#
-- 💪  I love the gym
-- 🏡  [My website](https://layth49.surge.sh)
-
-<br>
-
-<h2 align="center">Skills <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="32px" height="32px"></h2>
+## Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -37,8 +34,7 @@
 
 <br>
 
-
-<h2 align="center">Stuff I worked on last week <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width="50px" height="50px"></h2>
+## Activity
 
 <p align="center">
   <picture>
@@ -48,27 +44,19 @@
   </picture>
 </p>
 
-<br>
-
-<h2 align="center">GitHub Stats</h2>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/stats.svg?v=1">
     <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg?v=1">
     <img alt="Stats" src="./profile/stats.svg?v=1">
   </picture>
-  
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs.svg?v=1">
     <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs.svg?v=1">
     <img alt="Top Languages" src="./profile/top-langs.svg?v=1">
   </picture>
 </p>
-
-<br>
-
-<h2 align="center">🐍 GitHub Activity Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/layth49/layth49/output/snake.svg" alt="Snake animation" />
